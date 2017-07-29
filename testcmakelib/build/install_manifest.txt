@@ -1,0 +1,3 @@
+/home/dox/Algorithm/kdevelop/testcmakelib/build/install/lib/libcmakelib.so
+/home/dox/Algorithm/kdevelop/testcmakelib/build/install/lib/libcmakelib.a
+/home/dox/Algorithm/kdevelop/testcmakelib/build/install/include/testcmakelib.h

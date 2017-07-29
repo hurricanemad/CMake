@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dox/Algorithm/kdevelop/testcmakelib/build/bin",
+  "command": "/usr/bin/cc  -Dcmakelib_EXPORTS  -g -fPIC   -o CMakeFiles/cmakelib.dir/testcmakelib.c.o   -c /home/dox/Algorithm/kdevelop/testcmakelib/src/testcmakelib.c",
+  "file": "/home/dox/Algorithm/kdevelop/testcmakelib/src/testcmakelib.c"
+},
+{
+  "directory": "/home/dox/Algorithm/kdevelop/testcmakelib/build/bin",
+  "command": "/usr/bin/cc    -g   -o CMakeFiles/cmakelib_static.dir/testcmakelib.c.o   -c /home/dox/Algorithm/kdevelop/testcmakelib/src/testcmakelib.c",
+  "file": "/home/dox/Algorithm/kdevelop/testcmakelib/src/testcmakelib.c"
+}
+]

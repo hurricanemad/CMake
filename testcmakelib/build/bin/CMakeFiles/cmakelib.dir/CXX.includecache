@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dox/Algorithm/kdevelop/testcmakelib/src/testcmakelib.cpp
+testcmakelib.h
+/home/dox/Algorithm/kdevelop/testcmakelib/src/testcmakelib.h
+
+/home/dox/Algorithm/kdevelop/testcmakelib/src/testcmakelib.h
+stdio.h
+-
+

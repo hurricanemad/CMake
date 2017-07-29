@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/testcmakelib.dir/main.cpp.o  -o testcmakelib -rdynamic 

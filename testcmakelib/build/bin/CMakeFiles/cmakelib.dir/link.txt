@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libcmakelib.so -o libcmakelib.so CMakeFiles/cmakelib.dir/testcmakelib.cpp.o 

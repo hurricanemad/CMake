@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcmakelib.a  CMakeFiles/cmakelib_static.dir/testcmakelib.cpp.o
+/usr/bin/ranlib libcmakelib.a

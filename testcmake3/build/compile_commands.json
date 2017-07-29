@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dox/Algorithm/kdevelop/testcmake3/build/bin",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/testcmake3.dir/main.cpp.o -c /home/dox/Algorithm/kdevelop/testcmake3/src/main.cpp",
+  "file": "/home/dox/Algorithm/kdevelop/testcmake3/src/main.cpp"
+}
+]

@@ -1,0 +1,11 @@
+/home/dox/Algorithm/kdevelop/testcmake/build/CMakeFiles/install/local.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/CMakeFiles/install.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/bin/CMakeFiles/install.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/bin/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/bin/CMakeFiles/testcmake.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/bin/CMakeFiles/install/local.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/bin/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/kdevelop/testcmake/build/bin/CMakeFiles/edit_cache.dir

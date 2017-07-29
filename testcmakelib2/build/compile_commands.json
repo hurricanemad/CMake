@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dox/Algorithm/kdevelop/testcmakelib2/build/bin",
+  "command": "/usr/bin/c++    -I/home/dox/Algorithm/kdevelop/testcmakelib2/src/../../testcmakelib/build/install/include  -g   -o CMakeFiles/testcmakelib2.dir/main.cpp.o -c /home/dox/Algorithm/kdevelop/testcmakelib2/src/main.cpp",
+  "file": "/home/dox/Algorithm/kdevelop/testcmakelib2/src/main.cpp"
+}
+]

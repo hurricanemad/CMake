@@ -1,0 +1,5 @@
+/home/dox/Algorithm/kdevelop/testcmake3/build/install/share/doc/testcmake3/COPYRIGHT
+/home/dox/Algorithm/kdevelop/testcmake3/build/install/share/doc/testcmake3/REAME
+/home/dox/Algorithm/kdevelop/testcmake3/build/install/share/doc/testcmake3/text.txt
+/home/dox/Algorithm/kdevelop/testcmake3/build/install/bin/testcmake3.sh
+/home/dox/Algorithm/kdevelop/testcmake3/build/install/bin/testcmake3

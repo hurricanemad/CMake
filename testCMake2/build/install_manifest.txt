@@ -1,0 +1,5 @@
+/home/dox/Algorithm/kdevelop/testCMake2/build/install/share/doc/cmake/testcmake2/COPYRIGHT
+/home/dox/Algorithm/kdevelop/testCMake2/build/install/share/doc/cmake/testcmake2/README
+/home/dox/Algorithm/kdevelop/testCMake2/build/install/bin/runtestcmake2.sh
+/home/dox/Algorithm/kdevelop/testCMake2/build/install/install/testcmake2
+/home/dox/Algorithm/kdevelop/testCMake2/build/install/share/doc/cmake/testcmake2/text.txt
